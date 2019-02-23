@@ -1,0 +1,8 @@
+[package]
+name = "rust_experiments"
+version = "0.1.0"
+authors = ["vms <michail.vms@yandex.ru>"]
+edition = "2018"
+
+[dependencies]
+arraydeque = "0.4.3"
